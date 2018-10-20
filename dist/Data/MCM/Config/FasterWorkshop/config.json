@@ -1,0 +1,30 @@
+{
+  "modName": "FasterWorkshop",
+  "displayName": "Faster Workshop",
+  "minMcmVersion": 2,
+  "content": [
+    {
+      "text": "<p align='center'><font size='30'>Faster Workshop</font></p>",
+      "html": true,
+      "type": "text"
+    },
+    {
+      "text": "About",
+      "type": "section"
+    },
+    {
+      "text": "Faster Workshop is a F4SE plugin that rewrites the workshop loading code to be much more efficient, making it much faster to start Workshop mode. If you have F4SE enabled and the plugin installed, the code changes are already active. No further configuration is required.\n\nOn this MCM page, you can optionally assign a hotkey to instantly start Workshop mode without having to hold down the Workshop key.",
+      "type": "text"
+    },
+    {
+      "text": "Hotkeys",
+      "type": "section"
+    },
+    {
+      "id": "startWorkshop",
+      "text": "Start Workshop Mode",
+      "type": "hotkey",
+      "help": "Press this hotkey to start Workshop mode."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "modName": "FasterWorkshop",
+  "keybinds": [
+    {
+      "id": "startWorkshop",
+      "desc": "Start Workshop Mode",
+      "action": {
+        "type": "RunConsoleCommand",
+        "command": "StartWorkshop"
+      }
+    }
+  ]
+}
